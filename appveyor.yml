@@ -9,6 +9,8 @@ init:
 - ps: Restart-Computer
 install:
 - cmd: >-
+    chcp 65001
+
     mkdir engine
 
     cd engine
