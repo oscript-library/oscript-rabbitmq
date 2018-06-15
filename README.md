@@ -12,7 +12,7 @@
 
 ### С релизов GitHub
 
-1. Перейти на [страницу релизов](https://github.com/oscript-library/oscript-rabbitmq/releases)
+1. Перейти на [страницу релизов](https://github.com/oscript-library/rabbitmq/releases)
 1. Скачать артефакт RabbitMQ-x.y.z.ospx
 1. Установить с помощью opm: `opm install -f RabbitMQ-x.y.z.ospx`
 
